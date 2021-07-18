@@ -23,6 +23,6 @@ From the figure below, the following can be concluded:
 ## Summary
 ---
 
-- For future use for the code in coming elections, the data should be stored and tabulated in the same manner as in provided csv file **election_results.csb**. 
+- For future use for the code in coming elections, the data should be stored and tabulated in the same manner as in provided csv file **election_results.csv**. 
 - The fist modification that can be done for code is adding the ability to count the number of votes for each candidate from the participating counties. In addition to that, there is a need the urn out percentage with the statement of the winning county.
 - Also, this analysis can be easier to perform using pandas. 
