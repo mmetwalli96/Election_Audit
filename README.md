@@ -11,7 +11,7 @@ Election commission was given an election audit done by Seth and Tom. However, t
 
 In this challenge, the request will be fullfiled using python, and the election_results.csv file. 
 
-## Resuls
+## Results
 ---
 
 From the figure below, the following can be concluded:
